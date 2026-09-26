@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lively-sprinkles-678b8e.netlify.app/sitemap.xml
